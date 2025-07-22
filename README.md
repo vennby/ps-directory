@@ -1,6 +1,6 @@
 <h1 align="center"> PS Directory </h1>
 
-<p align="center"> Practice School guide for BITS Dubai Students </p>
+<p align="center"> A guide for BITS Dubai students to navigate through PS. </p>
 
 <img src="https://studioghibli.jp/static/media/cat-gif.3cd2ba79.gif" width="2000">
 
